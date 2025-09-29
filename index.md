@@ -10,6 +10,9 @@
 ``` Rust
 println!("Hello world!")
 ```
+- [ ] Turn on Github pages.
+- [x] Online myself to the world.
+- [ ] Introduce myself to the world.
 
 
 
